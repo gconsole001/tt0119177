@@ -52,3 +52,4 @@ jobs:
           git add page-2* 2>/dev/null; git commit -m a; git push
           git add page-1* 2>/dev/null; git commit -m a; git push
           git add page-0* 2>/dev/null; git commit -m a; git push
+          git add . 2>/dev/null; git commit -m a; git push
